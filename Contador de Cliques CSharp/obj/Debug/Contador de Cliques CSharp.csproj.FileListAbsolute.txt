@@ -1,0 +1,20 @@
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.csproj.AssemblyReference.cache
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador_de_Cliques_CSharp.Form1.resources
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador_de_Cliques_CSharp.Properties.Resources.resources
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.csproj.GenerateResource.cache
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.csproj.CoreCompileInputs.cache
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\bin\Debug\Contador de Cliques CSharp.exe.config
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\bin\Debug\Contador de Cliques CSharp.exe
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\bin\Debug\Contador de Cliques CSharp.pdb
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.exe
+C:\Users\mitoz\source\repos\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.pdb
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\bin\Debug\Contador de Cliques CSharp.exe.config
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\bin\Debug\Contador de Cliques CSharp.exe
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\bin\Debug\Contador de Cliques CSharp.pdb
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.csproj.AssemblyReference.cache
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador_de_Cliques_CSharp.Form1.resources
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador_de_Cliques_CSharp.Properties.Resources.resources
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.csproj.GenerateResource.cache
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.csproj.CoreCompileInputs.cache
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.exe
+C:\Users\mitoz\Desktop\trabfacul\fundamento atividade 3\Contador de Cliques CSharp\Contador de Cliques CSharp\obj\Debug\Contador de Cliques CSharp.pdb
