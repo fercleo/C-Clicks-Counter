@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contador de Cliques CSharp", "Contador de Cliques CSharp\Contador de Cliques CSharp.csproj", "{046FC9EE-D63F-43BA-804C-37261E4EEF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046FC9EE-D63F-43BA-804C-37261E4EEF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046FC9EE-D63F-43BA-804C-37261E4EEF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046FC9EE-D63F-43BA-804C-37261E4EEF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046FC9EE-D63F-43BA-804C-37261E4EEF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8254E873-BFD4-4899-900F-644106357086}
+	EndGlobalSection
+EndGlobal
