@@ -1,0 +1,10 @@
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\bin\Debug\Contador CSharp 2.0.exe.config
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\bin\Debug\Contador CSharp 2.0.exe
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\bin\Debug\Contador CSharp 2.0.pdb
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\obj\Debug\Contador CSharp 2.0.csproj.AssemblyReference.cache
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\obj\Debug\Contador_CSharp_2._0.Form1.resources
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\obj\Debug\Contador_CSharp_2._0.Properties.Resources.resources
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\obj\Debug\Contador CSharp 2.0.csproj.GenerateResource.cache
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\obj\Debug\Contador CSharp 2.0.csproj.CoreCompileInputs.cache
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\obj\Debug\Contador CSharp 2.0.exe
+C:\Users\mitoz\source\repos\Contador CSharp 2.0\Contador CSharp 2.0\obj\Debug\Contador CSharp 2.0.pdb
